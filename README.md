@@ -10,6 +10,12 @@
 - [x] 未被官方库收录的中国开发者开发的软件
 - [x] 国产商业软件
 
+## 太长不看
+
+- 📦 收录列表
+
+[![🀄️国人开发](https://img.shields.io/badge/%F0%9F%80%84%EF%B8%8F_%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91-red?logo=homebrew&labelColor=555555)](./%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91.md) [![🌎外国人开发](https://img.shields.io/badge/%F0%9F%8C%8E_%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91-blue?logo=homebrew&labelColor=555555)](https://github.com/Brewforge/homebrew-chinese/blob/main/Extra.md)
+
 ## 🏃 准备
 
 - 🪜流量有限：🍺 HomebrewCN [Homebrew 国内安装脚本 | Gitee](https://gitee.com/cunkai/HomebrewCN) 🚴
@@ -65,12 +71,8 @@ brew ls
 brew help
 ```
 
-## 📦 收录列表
-
-[![🀄️国人开发](https://img.shields.io/badge/%F0%9F%80%84%EF%B8%8F_%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91-green?logo=homebrew&labelColor=555555)](https://github.com/Brewforge/homebrew-chinese/blob/main/%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91.md) [![🌎外国人开发](https://img.shields.io/badge/%F0%9F%8C%8E_%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91-green?logo=homebrew&labelColor=555555)](https://github.com/Brewforge/homebrew-chinese/blob/main/Extra.md)
-
 ## 🧰 一起维护
 
-请直接发起 [PR](https://github.com/Brewforge/homebrew-chinese/compare) 或 [Issue](https://github.com/Brewforge/homebrew-chinese/issues/new/choose)
+请直接发起 [拉取请求](https://github.com/Brewforge/homebrew-chinese/compare) 或 [工单](https://github.com/Brewforge/homebrew-chinese/issues/new/choose) 。
 
 <!-- ## ❤️ 赞助者 -->
