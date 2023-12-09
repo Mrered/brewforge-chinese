@@ -1,6 +1,8 @@
 # Homebrew-Chinese
 
-![Homebrew](https://img.shields.io/badge/-Homebrew-FBB040?labelColor=555555&logoColor=FFFFFF&logo=homebrew) [![CI](https://github.com/Brewforge/homebrew-chinese/actions/workflows/main.yml/badge.svg)](https://github.com/Brewforge/homebrew-chinese/actions/workflows/main.yml) [![license](https://img.shields.io/github/license/Brewforge/homebrew-chinese.svg)](https://img.shields.io/github/languages/license/homebrew-chinese.svg) [![code-size](https://img.shields.io/github/languages/code-size/Brewforge/homebrew-chinese.svg)](https://img.shields.io/github/languages/code-size/Brewforge/homebrew-chinese.svg) [![repo-size](https://img.shields.io/github/repo-size/Brewforge/homebrew-chinese.svg)](https://img.shields.io/github/repo-size/Brewforge/homebrew-chinese.svg)
+<!-- ![Homebrew](https://img.shields.io/badge/-Homebrew-FBB040?labelColor=555555&logoColor=FFFFFF&logo=homebrew) ![CI](https://github.com/Brewforge/homebrew-chinese/actions/workflows/main.yml/badge) ![license](https://img.shields.io/github/license/Brewforge/homebrew-chinese) ![code-size](https://img.shields.io/github/languages/code-size/Brewforge/homebrew-chinese) ![repo-size](https://img.shields.io/github/repo-size/Brewforge/homebrew-chinese) -->
+
+![Homebrew](https://img.shields.io/badge/-Homebrew-FBB040?labelColor=555555&logoColor=FFFFFF&logo=homebrew) ![license](https://img.shields.io/github/license/Brewforge/homebrew-chinese) ![code-size](https://img.shields.io/github/languages/code-size/Brewforge/homebrew-chinese) ![repo-size](https://img.shields.io/github/repo-size/Brewforge/homebrew-chinese)
 
 一个致力于为中国开发者和用户提供 [🍺 Homebrew](https://github.com/Homebrew/brew) 支持的中文库
 
