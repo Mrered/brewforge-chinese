@@ -67,7 +67,7 @@ brew help
 
 ## 📦 收录列表
 
-![🀄️国人开发](https://img.shields.io/badge/%F0%9F%80%84%EF%B8%8F%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91-green?logo=homebrew&labelColor=555555&link=https://github.com/Brewforge/homebrew-chinese/blob/main/%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91.md) ![🌎外国人开发](https://img.shields.io/badge/%F0%9F%8C%8E%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91-green?logo=homebrew&labelColor=555555&link=https://github.com/Brewforge/homebrew-chinese/blob/main/Extra.md)
+[![🀄️国人开发](https://img.shields.io/badge/%F0%9F%80%84%EF%B8%8F_%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91-green?logo=homebrew&labelColor=555555)](https://github.com/Brewforge/homebrew-chinese/blob/main/%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91.md) [![🌎外国人开发](https://img.shields.io/badge/%F0%9F%8C%8E_%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91-green?logo=homebrew&labelColor=555555)](https://github.com/Brewforge/homebrew-chinese/blob/main/Extra.md)
 
 ## 🧰 一起维护
 
