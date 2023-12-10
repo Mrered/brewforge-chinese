@@ -4,7 +4,7 @@ cask "e-study" do
 
   url "https://download.cnki.net/CNKI%20E-Study%20For%20Mac.dmg"
   name "e-study"
-  desc "Essential Tools for Brainiacs"
+  desc "知网研学"
   homepage "https://estudy.cnki.net/"
 
   livecheck do

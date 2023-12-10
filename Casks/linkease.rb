@@ -4,7 +4,7 @@ cask "linkease" do
 
   url "https://fw8.koolcenter.com:5000/binary/LinkEase/Client/LinkEase.dmg"
   name "LinkEase"
-  desc "一个可以随时随地远程连接个人 文件或设备的私有存储云"
+  desc "一个可以随时随地远程连接个人文件或设备的私有存储云"
   homepage "https://doc.linkease.com/"
 
   livecheck do

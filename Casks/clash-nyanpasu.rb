@@ -7,7 +7,7 @@ cask "clash-nyanpasu" do
 
   url "https://github.com/keiko233/clash-nyanpasu/releases/download/v#{version}/Clash.Nyanpasu_#{version}_#{arch}.dmg"
   name "Clash Nyanpasu"
-  desc "Cross-Platform Clash GUI based on Tauri"
+  desc "基于 Tauri 的跨平台 Clash 图形界面"
   homepage "https://github.com/keiko233/clash-nyanpasu"
 
   livecheck do

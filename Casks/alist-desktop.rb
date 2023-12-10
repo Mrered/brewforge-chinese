@@ -8,8 +8,8 @@ cask "alist-desktop" do
   url "https://github.com/alist-org/desktop-release/releases/download/v#{version}/alist-desktop_#{version}_#{arch}.dmg",
       verified: "github.com/alist-org/"
   name "AList-Desktop"
-  desc "File list program that supports multiple storage, powered by Gin and Solidjs"
-  homepage "https://alist.nn.ci/zh/"
+  desc "AList 官方桌面版应用"
+  homepage "https://mbd.pub/o/bread/ZJaTl5xy/"
 
   livecheck do
     url :url

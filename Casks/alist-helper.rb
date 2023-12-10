@@ -4,8 +4,8 @@ cask "alist-helper" do
 
   url "https://github.com/Xmarmalade/alisthelper/releases/download/v#{version}/AlistHelper_v#{version}_macos.dmg"
   name "Alist Helper"
-  desc "Application to simplify the use of the desktop version of alist"
-  homepage "https://github.com/Xmarmalade/alisthelper"
+  desc "基于 AList CLI 的图形界面应用"
+  homepage "https://github.com/Xmarmalade/alisthelper/blob/master/README_zh-Hans.md"
 
   livecheck do
     url :url
@@ -13,6 +13,7 @@ cask "alist-helper" do
   end
 
   auto_updates true
+  depends_on cask: "alistcli"
 
   app "alisthelper.app"
 

@@ -8,7 +8,7 @@ cask "yank-note" do
   url "https://github.com/purocean/yn/releases/download/v#{version}/Yank-Note-mac-#{arch}-#{version}.dmg",
       verified: "github.com/purocean/yn/"
   name "Yank Note"
-  desc "Highly extensible Markdown editor"
+  desc "高度可扩展的 Markdown 编辑器"
   homepage "https://yank-note.com/zh-CN"
 
   livecheck do

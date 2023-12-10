@@ -7,7 +7,7 @@ cask "clash-verge-rev" do
 
   url "https://github.com/wonfen/clash-verge-rev/releases/download/v#{version}/Clash.Verge_#{version}_#{arch}.dmg"
   name "Clash Verge Rev"
-  desc "Clash Verge 接盘项目"
+  desc "Clash Verge 的接盘项目"
   homepage "https://github.com/wonfen/clash-verge-rev"
 
   livecheck do

@@ -5,7 +5,7 @@ cask "i4tools" do
   url "https://url.i4.cn/fqIBBbaa"
   name "i4Tools"
   name "爱思助手"
-  desc "Mobile device management software"
+  desc "移动设备管理软件"
   homepage "https://www.i4.cn/"
 
   livecheck do
