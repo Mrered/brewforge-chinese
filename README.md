@@ -36,10 +36,11 @@
 
 ## 🍺 使用
 
-🚰 把本仓库 **拍** 到自己 Mac 上 （仅需初次）
+🚰 把本仓库和 [brewforge/extras](https://github.com/Brewforge/homebrew-extras)  **拍** 到自己 Mac 上 （仅需初次）
 
 ```bash
 brew tap brewforge/chinese
+brew tap brewforge/extras
 ```
 
 🔍 搜索
